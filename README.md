@@ -1,0 +1,3 @@
+A simple shell command interpreter that replicates the functions of the bash shell.
+This is done by Abdullahi Muhammad and Ahmad Bello as a Milestone Project for the C code at ALX Africa Software Engineering .
+program include process, system call, bit manipulation, file managment, error handling ...

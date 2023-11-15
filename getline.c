@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
- * input_buf - buffers chained commands
+ * input_buf - buffer chained commands
  * @info: parameter struct
- * @buf: address of buffer
- * @len: address of len var
+ * @buf: addresss of buffer
+ * @len: addresss of len var
  *
  * Return: bytes read
  */

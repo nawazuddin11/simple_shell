@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
- * get_history_file - gets the history file
- * @info: parameter struct
+ * get_history_file - get the history file
+ * @info: parameter structure
  *
- * Return: allocated string containg history file
+ * Return: allocate string containg history file
  */
 
 char *get_history_file(info_t *info)
